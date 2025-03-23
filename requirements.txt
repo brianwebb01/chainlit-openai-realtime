@@ -1,0 +1,5 @@
+chainlit
+openai>=1.3.0
+yfinance
+plotly
+websockets==10.4
